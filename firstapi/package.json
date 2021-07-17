@@ -1,0 +1,14 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RafaDom10/first-api.git",
+  "author": "RafaDom10 <r-domingues@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
